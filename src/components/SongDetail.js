@@ -3,8 +3,8 @@ import React from 'react';
 
 const SongDetail = ( ) => {
     return (
-
-        <p>Song</p>
+            
+            <p>Song</p>
 
     )
 };
